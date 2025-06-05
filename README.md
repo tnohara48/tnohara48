@@ -9,33 +9,89 @@ I create **production-ready portfolio projects** to demonstrate my ability to de
 
 ---
 
+
 ## 🚀 Featured Projects / 主なプロジェクト
 
 ### 🧩 [portfolio-go-crm](https://github.com/tnohara48/portfolio-go-crm)
-A lightweight CRM system built with **Go (Gin)** and **Vue 3**.  
+
+A lightweight CRM system built with **Go (Gin)** and **Vue 3**.
 **Go（Gin）**と**Vue 3**で構築した軽量CRMシステムです。
 
 Features:
-- Customer and deal management  
+
+* Customer and deal management
   顧客・商談管理機能
-- JWT-based authentication  
+* JWT-based authentication
   JWTによる認証機能
-- Docker-based deployment  
+* Docker-based deployment
   Dockerによる開発・本番環境対応
 
 ---
 
-### 📦 FastAPI CRM (coming soon)
-A similar CRM app using **FastAPI + PostgreSQL + React**, fully containerized with Docker.  
-**FastAPI + PostgreSQL + React**で構成されたCRMシステム（開発中）です。Dockerで完全コンテナ化しています。
+### ☕ [portfolio-java-crm](https://github.com/tnohara48/portfolio-java-crm)
+
+A CRM system built with **Spring Boot** and **React**.
+**Spring Boot** と **React** を用いた拡張性の高いCRMシステムです。
+
+Features:
+
+* RESTful API and service layer architecture
+  サービス層とREST設計によるAPI構成
+* Role-based authentication
+  ロールベースの認証/認可
+* PostgreSQL integration and Docker support
+  PostgreSQL連携とDocker対応
 
 ---
 
-### 🏗 Laravel / Spring Boot versions
-Other versions of the CRM system built with **Laravel** and **Spring Boot** will also be released for comparison.  
-同様のCRMシステムを**Laravel**および**Spring Boot**でも実装予定で、比較可能な構成を目指しています。
+### 🐘 [portfolio-laravel-crm](https://github.com/tnohara48/portfolio-laravel-crm)
+
+A CRM system built with **Laravel** and **Vue 3**.
+**Laravel** と **Vue 3** によるモダンなCRMアプリケーションです。
+
+Features:
+
+* Multi-table relationships with Eloquent ORM
+  Eloquent ORMによる複雑なリレーション設計
+* Form validation and session handling
+  バリデーションとセッション管理
+* Unit tests and CI/CD with GitHub Actions
+  PHPUnitによるテストとGitHub ActionsによるCI/CD
 
 ---
+
+### 🐍 [portfolio-fastapi-crm](https://github.com/tnohara48/portfolio-fastapi-crm)
+
+A CRM application using **FastAPI**, **PostgreSQL**, and **React**.
+**FastAPI + PostgreSQL + React** による高速でスケーラブルなCRMアプリです。
+
+Features:
+
+* FastAPI with Pydantic schema validation
+  FastAPI + Pydantic による型安全なAPI設計
+* Async I/O for fast response
+  非同期I/O対応による高速処理
+* Docker + Alembic for migration
+  Docker構成およびAlembicによるDBマイグレーション
+
+---
+
+### 📊 [job-hiring-analysis-colab](https://github.com/tnohara48/job-hiring-analysis-colab)
+
+A data analysis and prediction notebook using **Google Colab** and **scikit-learn**.
+**Google Colab** 上で実行可能な、求人応募データの可視化と予測モデル構築プロジェクトです。
+
+Features:
+
+* Dummy hiring data generation and visualization
+  架空の応募データ生成と可視化
+* Machine learning classification model
+  応募成功予測のための分類モデル構築
+* GitHub + Colab 連携による再現性の高いポートフォリオ
+  GitHubとColabの連携による実行可能な構成
+
+---
+
 
 ## 🛠 Tech Stack / 使用技術
 
