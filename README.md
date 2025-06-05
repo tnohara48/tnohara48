@@ -1,8 +1,8 @@
-# 👋 Hi there, I'm Tatsu Nohara!
-こんにちは、野原 達（Tatsu Nohara）です！
+# 👋 Hi there, I'm Tatsuo Nohara!
+こんにちは、野原 達（Tatsuo Nohara）です！
 
 I'm a full-stack developer based in Japan, building practical web applications using Go, Python, PHP, and Java.  
-日本を拠点に活動するフルスタック開発者で、Go、Python、PHP、Java を用いて実用的なWebアプリケーションを開発しています。
+日本を拠点に活動するフルスタック開発者で、PHP、JaveScript、Python、Go、Java を用いて実用的なWebアプリケーションを開発しています。
 
 I create **production-ready portfolio projects** to demonstrate my ability to design, build, and deploy real-world systems with clean code and scalable architecture.  
 **本番運用を想定したポートフォリオプロジェクト**を通じて、設計・実装・デプロイの技術力を示しています。
@@ -41,11 +41,12 @@ Other versions of the CRM system built with **Laravel** and **Spring Boot** will
 
 | Category | Tech (EN) | 技術（JP） |
 |---------|-----------|------------|
-| Languages | Go / Python / PHP / Java | Go / Python / PHP / Java |
-| Backend  | Gin / FastAPI / Laravel / Spring Boot | Gin / FastAPI / Laravel / Spring Boot |
+| Languages | JavaScript / PHP / TypeScript / Python / Go / Java | JavaScript / PHP / TypeScript / Python / Go / Java |
+| Backend  | Laravel / CakePHP / FastAPI / Gin / Spring Boot | Laravel / CakePHP / FastAPI / Gin / Spring Boot |
 | Frontend | Vue 3 / React / TypeScript | Vue 3 / React / TypeScript |
-| DB       | PostgreSQL / MySQL / SQLite | PostgreSQL / MySQL / SQLite |
+| DB       | MySQL / SQLServer / PostgreSQL / SQLite | MySQL / SQLServer / PostgreSQL / SQLite |
 | Tools    | Docker / GitHub Actions / CI/CD / JWT / REST API | Docker / GitHub Actions / CI/CD / JWT / REST API |
+| Cloud    | AWS / Google Colab | AWS / Google Colab |
 
 ---
 
