@@ -111,7 +111,8 @@ Features:
 I'm currently open to full-time or freelance opportunities.  
 現在、**フルタイムまたはフリーランス案件**を募集中です。
 
-Feel free to check out my projects or reach out via GitHub.  
-お気軽に GitHub 経由でご連絡ください！
+Feel free to check out my projects or contact me at **tnohara48@gmail.com**.  
+お気軽に **tnohara48@gmail.com** までご連絡ください！
+
 
 Thanks for visiting! / ご覧いただきありがとうございます！
